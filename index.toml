@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
 
 [[files]]
+file = "README.md"
+hash = "f588ee229e8ca2559b639d3efb035f7af240697b9c2aef5e360e075a7e83f908"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
@@ -963,6 +967,16 @@ hash = "e529665cfda65f7532a0cf52feac55eda02040f26f9ddaf2dfb4cdabe51332f4"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "593c82516290584155ff30c818f57ba45f28da354206d81b76806f395d883054"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "c7912aabbb629d0fb2d1c0cecf0923a1742feae7056dd1b9feb2c81b2c9aef73"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "31bedc841cd4f28284805ce9b2c1ab53a39c2fa062816e1e520ef1b7d631f7db"
 metafile = true
@@ -995,6 +1009,16 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "3d3a8cd6517c5804bd1ce2e4e05197ef40d33ed04c26b448c3eba6ac2b25321b"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "4bdeb76d67a9f647ef37303bcb9403b8281d5cd8dd99d7505afbca21b2b26158"
 metafile = true
 
 [[files]]
@@ -1038,6 +1062,26 @@ hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
 metafile = true
 
 [[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "984db11b069d45ee175a8f20e25b26cbd87db633aa83c2ed3e61a9c3a81b40f5"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "d8e2553b0ec8c23385522171dcfb5460b1d0ec2027119655197366c83ffdb4a3"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "edfb8530ece2841950eb9a13e583acb6918648280f2d711ecf23aeeda40be8b2"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "700fd4c9a5df3dc32fd01aebaeb038bc223ebe8d32e45b2997b8942538b08a80"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
@@ -1078,6 +1122,16 @@ hash = "ce92a2870c50085508caf9b680efffdfdd50b54e240e7bf047b6833c66ac139e"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "436e0c633a689379dfb99745344a6ab0c9cc39955f59d6194aad2a6a44202217"
+metafile = true
+
+[[files]]
 file = "mods/toast-control.pw.toml"
 hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
@@ -1090,6 +1144,16 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "7dea79ae9793a1a5ff3bb97f17ab5f835d07fd1053ade9114feced05bccb0229"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "13af80b2b1274ebea8a8afdd31340b98280ae70ae7a64061162d0b07e75e0929"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "1bfc00546eacc516fef33abcaabce4499f4e8508d56f0ed8e3d55736831acfdd"
 metafile = true
 
 [[files]]
