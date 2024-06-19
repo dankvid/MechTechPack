@@ -1,0 +1,13 @@
+name = "GregTech CEu Modern Community Pack"
+author = "ursamina"
+version = "1.8.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f836c66f22ec630111d39991ca9cfed6a7b7176d6be6199cf758ec180efc4d0e"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"
